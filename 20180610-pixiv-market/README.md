@@ -6,11 +6,9 @@
 * Twitter: https://twitter.com/nyakuro
 
 # About pixiv MARKET
-6/10(日)池袋サンシャインシティで開かれる、
-世界初、キャッシュレスな同人誌即売会！
+* 6/10(日)池袋サンシャインシティで開かれる、世界初、キャッシュレスな同人誌即売会！  
 https://market.pixiv.net/
-
-sugarmosaicは、スペース番号「オ-9b」で参加しています！
+* sugarmosaicは、スペース番号「オ-9b」で参加しています！
 
 # お品書き
 コンセプトアルバム3種類を持っていきます。
