@@ -124,3 +124,7 @@ monoraldeeがロゴやインナーや歌詞カードのデザインを担当し�
 
 仕様自体も大きく変えていて、デジパックから紙ジャケットに変わっています。
 よくある紙ジャケットとは違って、厚みのある若干お高いな紙ジャケットですｗ
+
+![DSC03163.jpg](resources/641F6746EE160BB31B4855FA9BF3D8EA.jpg)
+![DSC03161.jpg](resources/68E1477AF975F649E3E1149D2985621D.jpg)
+![DSC03171.jpg](resources/8D2BADBCE738FF4FB248969ADC2DC21C.jpg)
