@@ -2,8 +2,8 @@
 コンセプトアルバム制作を行っている音楽サークル。
 透明感のあるボーカル & インスト曲とマルチジャンルな展開が特徴。
 
-Official Site: http://sugarmosaic
-Twitter: https://twitter.com/nyakuro
+* Official Site: http://sugarmosaic
+* Twitter: https://twitter.com/nyakuro
 
 # About pixiv MARKET
 6/10(日)池袋サンシャインシティで開かれる、
@@ -47,7 +47,7 @@ sugarmosaicは、スペース番号「オ-9b」で参加しています！
 切り込みが入った特殊デジパック。
 歌詞カードを入れ替えるとジャケットの一部が変わります。
 
-
+- - -
 
 ## 透明化症候群(2nd Album)
 
@@ -81,7 +81,7 @@ sugarmosaicは、スペース番号「オ-9b」で参加しています！
 
 ![DSC01100.jpg](resources/03A291768E4E297C6BB3505389EF626B.jpg)
 
-
+- - -
 
 ## FD*Azure(3rd Album)
 
