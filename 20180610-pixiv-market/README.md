@@ -15,9 +15,9 @@ https://market.pixiv.net/
 試聴はリンクから
 
 * 【1st】 ヤドカリ少女  
-　http://sugarmosaic.com/discography/
+　http://sugarmosaic.com/r/yadokari/
 * 【2nd】 透明化症候群  
-　http://sugarmosaic.com/discography/
+　http://sugarmosaic.com/r/colorless/
 * 【3rd】 FD*Azure  
 　https://www.youtube.com/watch?v=0ZsLts-TNds
 
