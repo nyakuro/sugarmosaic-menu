@@ -2,7 +2,7 @@
 コンセプトアルバム制作を行っている音楽サークル。
 透明感のあるボーカル & インスト曲とマルチジャンルな展開が特徴。
 
-* Official Site: http://sugarmosaic
+* Official Site: http://sugarmosaic.com
 * Twitter: https://twitter.com/nyakuro
 
 # About pixiv MARKET
